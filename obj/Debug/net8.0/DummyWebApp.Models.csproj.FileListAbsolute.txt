@@ -1,0 +1,11 @@
+C:\Users\NoteBook\source\repos\DummyWebApp.Models\bin\Debug\net8.0\DummyWebApp.Models.deps.json
+C:\Users\NoteBook\source\repos\DummyWebApp.Models\bin\Debug\net8.0\DummyWebApp.Models.dll
+C:\Users\NoteBook\source\repos\DummyWebApp.Models\bin\Debug\net8.0\DummyWebApp.Models.pdb
+C:\Users\NoteBook\source\repos\DummyWebApp.Models\obj\Debug\net8.0\DummyWebApp.Models.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\NoteBook\source\repos\DummyWebApp.Models\obj\Debug\net8.0\DummyWebApp.Models.AssemblyInfoInputs.cache
+C:\Users\NoteBook\source\repos\DummyWebApp.Models\obj\Debug\net8.0\DummyWebApp.Models.AssemblyInfo.cs
+C:\Users\NoteBook\source\repos\DummyWebApp.Models\obj\Debug\net8.0\DummyWebApp.Models.csproj.CoreCompileInputs.cache
+C:\Users\NoteBook\source\repos\DummyWebApp.Models\obj\Debug\net8.0\DummyWebApp.Models.dll
+C:\Users\NoteBook\source\repos\DummyWebApp.Models\obj\Debug\net8.0\refint\DummyWebApp.Models.dll
+C:\Users\NoteBook\source\repos\DummyWebApp.Models\obj\Debug\net8.0\DummyWebApp.Models.pdb
+C:\Users\NoteBook\source\repos\DummyWebApp.Models\obj\Debug\net8.0\ref\DummyWebApp.Models.dll

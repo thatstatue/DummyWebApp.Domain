@@ -1,0 +1,12 @@
+C:\Users\NoteBook\source\repos\DummyWebApp.Models\bin\Debug\net8.0\DummyWebApp.Domain.deps.json
+C:\Users\NoteBook\source\repos\DummyWebApp.Models\bin\Debug\net8.0\DummyWebApp.Domain.dll
+C:\Users\NoteBook\source\repos\DummyWebApp.Models\bin\Debug\net8.0\DummyWebApp.Domain.pdb
+C:\Users\NoteBook\source\repos\DummyWebApp.Models\obj\Debug\net8.0\DummyWebApp.Domain.csproj.AssemblyReference.cache
+C:\Users\NoteBook\source\repos\DummyWebApp.Models\obj\Debug\net8.0\DummyWebApp.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\NoteBook\source\repos\DummyWebApp.Models\obj\Debug\net8.0\DummyWebApp.Domain.AssemblyInfoInputs.cache
+C:\Users\NoteBook\source\repos\DummyWebApp.Models\obj\Debug\net8.0\DummyWebApp.Domain.AssemblyInfo.cs
+C:\Users\NoteBook\source\repos\DummyWebApp.Models\obj\Debug\net8.0\DummyWebApp.Domain.csproj.CoreCompileInputs.cache
+C:\Users\NoteBook\source\repos\DummyWebApp.Models\obj\Debug\net8.0\DummyWebApp.Domain.dll
+C:\Users\NoteBook\source\repos\DummyWebApp.Models\obj\Debug\net8.0\refint\DummyWebApp.Domain.dll
+C:\Users\NoteBook\source\repos\DummyWebApp.Models\obj\Debug\net8.0\DummyWebApp.Domain.pdb
+C:\Users\NoteBook\source\repos\DummyWebApp.Models\obj\Debug\net8.0\ref\DummyWebApp.Domain.dll
